@@ -1,6 +1,6 @@
 # supermarket
 
-## 
+## Description
 with this program you can see all of supermarket:
 * name
 * phone
